@@ -2,7 +2,7 @@
 
 ## Task Description
 
-- Write a bulletin board on YII2 + MySQL.
+- Write a bulletin board on Laravel + MySQL.
 - Ad viewing is available to everyone. The page displays 20 ads. New ads are displayed above the old ones. Pagination (pagination) must be present.
 - For all other actions the user should register/authorize in the system. After authorization the page with information about the user (name, email, photo, user's announcements) which it can edit (including and upload photos) becomes accessible, also it can view pages of other users without Editing capabilities.
 - To modify the DB use migrations.  It will be a plus if the project will be in the form of a git repository.
